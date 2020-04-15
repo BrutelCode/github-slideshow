@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+* Start a line with a star
 Use the left arrow to go back!
